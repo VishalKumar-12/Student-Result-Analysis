@@ -22,4 +22,12 @@ Matplotlib – Used for basic data visualization
 Seaborn – Used for advanced and attractive statistical visualizations
 
 # Analysis Performed
-# Ethnic Group Distribution
+A pie chart is used to show the percentage distribution of students across different ethnic groups.
+A heatmap is used to analyze the relationship between parents’ education levels and average student scores.
+A box plot is used to visualize the distribution and spread of reading scores among students.
+
+# Result
+From the analysis, it is observed that students whose parents have higher educational qualifications generally perform better in academic subjects. The heatmap clearly indicates a positive relationship between parents’ education and students’ scores. The ethnic group distribution provides insight into the representation of different groups within the dataset.
+
+# Conclusion
+This project demonstrates how data analysis and visualization techniques can be used to understand student performance effectively. Visual tools such as pie charts, heatmaps, and box plots make it easier to interpret complex data. The study concludes that parents’ education has a positive impact on students’ academic performance, and data visualization plays a crucial role in deriving meaningful insights.
