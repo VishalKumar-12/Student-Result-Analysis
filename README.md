@@ -12,7 +12,7 @@
 ---
 
 ## Dataset description 
-- The dataset used in this project contains student performance data, including:
+The dataset used in this project contains student performance data, including:
 - Math Score
 - Reading Score
 - Writing Score
