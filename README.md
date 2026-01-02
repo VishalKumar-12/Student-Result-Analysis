@@ -1,5 +1,5 @@
 # Student-Result-Analysis
-This project focuses on analyzing students’ academic performance using data analysis and visualization techniques. By examining students’ scores in different subjects along with demographic factors, the project aims to identify patterns and trends that influence academic outcomes.
+-This project focuses on analyzing students’ academic performance using data analysis and visualization techniques. By examining students’ scores in different subjects along with demographic factors, the project aims to identify patterns and trends that influence academic outcomes.
 
 ---
 
@@ -12,28 +12,36 @@ This project focuses on analyzing students’ academic performance using data an
 ---
 
 ## Dataset description 
-The dataset used in this project contains student performance data, including:
-Math Score
-Reading Score
-Writing Score
-Parents’ Education Level
-Ethnic Group
+- The dataset used in this project contains student performance data, including:
+- Math Score
+- Reading Score
+- Writing Score
+- Parents’ Education Level
+- Ethnic Group
+
+---
 
 ## Tools Used
-Python – Programming language used for analysis
-Pandas – Used for data cleaning, processing, and manipulation
-Matplotlib – Used for basic data visualization
-Seaborn – Used for advanced and attractive statistical visualizations
+- Python – Programming language used for analysis
+- Pandas – Used for data cleaning, processing, and manipulation
+- Matplotlib – Used for basic data visualization
+- Seaborn – Used for advanced and attractive statistical visualizations
 
-# Analysis Performed
-A pie chart is used to show the percentage distribution of students across different ethnic groups.
-A heatmap is used to analyze the relationship between parents’ education levels and average student scores.
-A box plot is used to visualize the distribution and spread of reading scores among students.
+---
 
-# Result
+## Analysis Performed
+- A pie chart is used to show the percentage distribution of students across different ethnic groups.
+- A heatmap is used to analyze the relationship between parents’ education levels and average student scores.
+- A box plot is used to visualize the distribution and spread of reading scores among students.
+
+---
+
+## Result
 From the analysis, it is observed that students whose parents have higher educational qualifications generally perform better in academic subjects. The heatmap clearly indicates a positive relationship between parents’ education and students’ scores. The ethnic group distribution provides insight into the representation of different groups within the dataset.
 
-# Conclusion
+---
+
+## Conclusion
 This project demonstrates how data analysis and visualization techniques can be used to understand student performance effectively. Visual tools such as pie charts, heatmaps, and box plots make it easier to interpret complex data. The study concludes that parents’ education has a positive impact on students’ academic performance, and data visualization plays a crucial role in deriving meaningful insights.
 
 
