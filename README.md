@@ -31,3 +31,5 @@ From the analysis, it is observed that students whose parents have higher educat
 
 # Conclusion
 This project demonstrates how data analysis and visualization techniques can be used to understand student performance effectively. Visual tools such as pie charts, heatmaps, and box plots make it easier to interpret complex data. The study concludes that parents’ education has a positive impact on students’ academic performance, and data visualization plays a crucial role in deriving meaningful insights.
+
+
