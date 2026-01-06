@@ -31,6 +31,7 @@ The dataset used in this project contains student performance data, including:
 
 ## Analysis Performed
 - A pie chart is used to show the percentage distribution of students across different ethnic groups.
+  ![image alt](https://github.com/VishalKumar-12/Student-Result-Analysis/blob/f7f55e67d7dca69d6d4de4d1f11644419cc46cee/Ethnic_group1.png)
 - A heatmap is used to analyze the relationship between parents’ education levels and average student scores.
 - A box plot is used to visualize the distribution and spread of reading scores among students.
 
