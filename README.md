@@ -36,6 +36,8 @@ The dataset used in this project contains student performance data, including:
   
   ![image alt](https://github.com/VishalKumar-12/Student-Result-Analysis/blob/1f9942cbd520b0b35f6ace7bbd27fa341ced4091/Parent_Education.png)
 - A box plot is used to visualize the distribution and spread of reading scores among students.
+  ### Math Score
+  ![image alt](https://github.com/VishalKumar-12/Student-Result-Analysis/blob/c66420d901ccc77edd5804c758a77fab88f0be33/Mathscore.png)
 
 ---
 
