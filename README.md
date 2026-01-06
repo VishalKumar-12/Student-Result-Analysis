@@ -39,6 +39,12 @@ The dataset used in this project contains student performance data, including:
   ### Math Score
   ![image alt](https://github.com/VishalKumar-12/Student-Result-Analysis/blob/c66420d901ccc77edd5804c758a77fab88f0be33/Mathscore.png)
 
+ ### Reading Score
+ ![image alt]()
+
+ ### Writing Score
+  ![image alt]()
+
 ---
 
 ## Result
